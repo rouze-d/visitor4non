@@ -1,8 +1,7 @@
 #!/usr/bin/python
 # what about this visitor4non ddos:
-# inspire form torshammer ddos & hulk ddos
-# - random user-agent | - random referer | - random HTTP version | and more random..
-# - by rouze-d
+# inspire from Torshammer (https://github.com/dotfighter/torshammer)  ddos & HULK ddos (https://github.com/praisekekboi/hulk)
+# - Random User-Agent, Referer, Accept-Charset, Content-Length, Content-Type and more
 
 import os
 import re                                                       #####################
