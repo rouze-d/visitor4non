@@ -704,7 +704,7 @@ if __name__ == "__main__":
     print "             'oOXWWWXOo'  "
     print ""
     print (RED+" visitor4non DDOS"+WHITE)
-    print (" by-"+GREEN+" rouze-d"+WHITE+"  ~yes, i'am ScriptKiddies ")
+    print (" by-"+GREEN+" rouze-d"+WHITE+"  ~yes, tango-down!! ")
     print ""
 
 
